@@ -1,0 +1,471 @@
+{
+    "title": {
+        "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg/800px-Artificial_intelligence_prompt_completion_by_dalle_mini.jpg",
+            "caption": "An image of an electronic brain",
+            "credit": "Neural net completion for 'artificial intelligence', as done by DALL-E mini hosted on HuggingFace, 4 June 2022 (code under Apache 2.0 license). Upscaled with Real-ESRGAN 'Anime' upscaling version (under BSD 3-Clause 'New' or 'Revised' License)."
+        },
+        "text": {
+            "headline": "Artificial Intelligence and Machine Learning<br/> 1943 - 2023",
+            "text": "<p>The history of Artificial Intelligence and Machine Learning told on a timeline.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://historyofinformation.com/images/Screen_Shot_2020-09-09_at_6.46.46_AM_big.png",
+                "caption": "McCulloch (right) and Pitts (left) in 1949",
+                "credit": "https://www.historyofinformation.com/image.php?id=5647"
+            },
+            "start_date": {
+                "year": "1943"
+            },
+            "text": {
+                "headline": "Artificial Neurons",
+                "text": "Artificial neurons were proposed in 1943 by Warren McCulloch, a neurophysiologist, and Walter Pitts, a logician. They realized neurons could be modeled as electrical circuits, specifically simple logical circuits, and they developed a straightforward but general mathematical model of them"
+            }
+        },
+        {
+            "media": {
+                "url": "https://home.dartmouth.edu/sites/home/files/styles/media_grid_landscape/public/2022-10/artificial-intelligence.png?h=e70e10e6&itok=127Ti6t3",
+                "caption": "A PROPOSAL FOR THE DARTMOUTH SUMMER RESEARCH PROJECT ON ARTIFICIAL INTELLIGENCE",
+                "credit": "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth"
+            },
+            "start_date": {
+                "month": "9",
+                "day": "2",
+                "year": "1955"
+            },
+            "text": {
+                "headline": "Artificial Intelligence is born",
+                "text": "<p>On September 2, 1955, the project was formally proposed by McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shannon. The proposal is credited with introducing the term 'artificial intelligence'. </p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=WHCo4m2VOws",
+                "caption": "Symbolic AI: Crash Course AI #10",
+                "credit": "A video: Symbolic AI: Crash Course AI #10"
+            },
+            "start_date": {
+                "year": "1956"
+            },
+            "text": {
+                "headline": "The Golden Age of AI Begins",
+                "text": "Beginning in 1956 and lasting until 1974 the Golden Age of AI saw expectations of rapid progress. Symbolic AI was the norm. This form of AI aimed to represent the world inside AI using symbols and use reason to determine action. The way towards artificial intelligence was to divide and conquer problems of intelligence and later combine the solutions."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Mark_I_perceptron.jpeg?20180102235740",
+                "caption": "The Mark I Perceptron, an early pattern recognition system, at the Cornell Aeronautical Laboratory. ",
+                "credit": "https://digital.library.cornell.edu/catalog/ss:550351"
+            },
+            "start_date": {
+                "year": "1958"
+            },
+            "text": {
+                "headline": "Neural Nets Version 1 - Perceptrons",
+                "text": "In the 1950s Frank Rosenblatt refined the neural net model of Pitts and McCulloch into a model he called \"perceptrons\". The Mark I Perceptron shown on the picture is the first perceptron to be implemented. It had 3 layers of neurons. It worked like this: inputs connected to a neuron. Each connection has a weight. If the neuron is active it stimulates the neuron in the next layer with its weight. If the next neuron is stimulated beyond its activation potential threshold, it will fire. "
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=7bsEN8mwUB8",
+                "caption": "Shakey the Robot: The First Robot to Embody Artificial Intelligence",
+                "credit": "A video: Shakey the Robot: The First Robot to Embody Artificial Intelligence"
+            },
+            "start_date": {
+                "year": "1966"
+            },
+            "text": {
+                "headline": "SHAKEY the Robot: The First Robot to Embody Artificial Intelligence",
+                "text": "One of the few AI robots of the 1960s and 1970s, SHAKEY was a research project carried out between 1966-1972 at Stanford Research Institute and was a robot to carry out tasks in the real world. It's capabilities include: perception, obstacle detection, ability to navigate environment, planning and problem-solving"
+            }
+        },
+        {
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+                "caption": "Perceptrons (book) by Marvin Minsky, Seymour Papert",
+                "credit": "Perceptrons (book) by Marvin Minsky, Seymour Papert"
+            },
+            "start_date": {
+                "year": "1969"
+            },
+            "text": {
+                "headline": "Perceptrons (book) critiques neural networks",
+                "text": "The book was dedicated to psychologist Frank Rosenblatt, who in 1957 had published the first model of a \"Perceptron\".[1] Rosenblatt and Minsky knew each other since adolescence, having studied with a one-year difference at the Bronx High School of Science.[2]. The crux of Perceptrons is a number of mathematical proofs which acknowledge some of the perceptrons' strengths while also showing major limitations. The book's criticism was applied only to single-layer neural networks, not multi-layer neural networks. Unfortunately, at the time nobody knew how to train multi-layer neural networks. Sadly, Rosenblatt died in a sailing accident in 1971 and the neural net community lost one of its leaders."
+            }
+        },
+        
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=bo4RvYJYOzI",
+                "caption": "SHRDLU in Action",
+                "credit": "A video of SHRDLU in action"
+            },
+            "start_date": {
+                "year": "1971"
+            },
+            "text": {
+                "headline": "SHRDLU and Blocks World",
+                "text": "developed in 1971 by Terry Winograd, this program aimed to demonstrate two key AI capabilities - problem solving and natural language understanding. SHRDLU inhabited a simulated world called Blocks World"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Lighthill_3.jpeg",
+                "caption": "Sir James Lighthill",
+                "credit": "{{Information |Description=Sir James Lighthill |Source=http://www-gap.dcs.st-and.ac.uk/~history/PictDisplay/Lighthill.html |Date=September 18, 2008 |Author=Crowsnest |Permission=Fair use |other_versions= }} {{Non-free fair use in|Sir James Lighthill}} "
+            },
+            "start_date": {
+                "year": "1972"
+            },
+            "text": {
+                "headline": "Sir James Lighthill dismmisses mainstream AI",
+                "text": "In 1972 Sir James Lighthill at the time the highest ranking mathematician in the UK, Lucasion Professor of Mathematics at Cambridge (later succeeded by Stephen Hawking), was asked by the UK to evaluate the current state and future prospects for AI. He dismissed mainstream AI and identified combinatorial explosion as a key unsolved problem in AI."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=I_rpf3anT-g&t=12",
+                "caption": " The first AI winter (1974-1980). FF9",
+                "credit": " The first AI winter (1974-1980). FF9"
+            },
+            "start_date": {
+                "year": "1974"
+            },
+            "end_date": {
+                "year": "1980"
+            },
+            "text": {
+                "headline": "The first AI Winter (1974-1980)",
+                "text": "Sir James Lighthill report, combined with the high expectations that did not materialize, the very real problem of combinatorial explosion (NP-complete problems), the difficulty of scaling Symbolic AI and the unsufficient computing available led to the first period of reduced funding for AI, called \"The AI Winter\""
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=O-FZ4Q8RXds",
+                "caption": "Introduction to Expert Systems (AI)",
+                "credit": "Destin Learning"
+            },
+            "start_date": {
+                "year": "1975"
+            },
+            "text": {
+                "headline": "Knowledge AI and Expert Systems",
+                "text": "In the late 1970s and early 1980s a new direction for developing AI emerged - knowledge AI. This meant to provide knowledge to an AI in the form of rules, like \"IF animal can fly AND animal lays eggs THEN animal is bird\". This led to the development of expert systems."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=eVTBSEZLIzY",
+                "caption": "Mycin Expert System",
+                "credit": "Grow Fast"
+            },
+            "start_date": {
+                "year": "1972"
+            },
+            "end_date": {
+                "year": "1978"
+            },
+            "text": {
+                "headline": "MYCIN - a successful medical expert system",
+                "text": "MYCIN was an early backward chaining expert system that used artificial intelligence to identify bacteria causing severe infections, such as bacteremia and meningitis, and to recommend antibiotics, with the dosage adjusted for patient's body weight — the name derived from the antibiotics themselves, as many antibiotics have the suffix \"-mycin\". The Mycin system was also used for the diagnosis of blood clotting diseases. MYCIN was developed over five or six years in the early 1970s at Stanford University. It was written in Lisp as the doctoral dissertation of Edward Shortliffe under the direction of Bruce G. Buchanan, Stanley N. Cohen and others. MYCIN showed expert systems can outperform humans."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=kb10lOnileM",
+                "caption": "Feigenbaum on the Heuristic Programming Project and DENRAL",
+                "credit": "Turing Awardee Clips"
+            },
+            "start_date": {
+                "year": "1960"
+            },
+            "end_date": {
+                "year": "1970"
+            },
+            "text": {
+                "headline": "DENDRAL",
+                "text": "An early AI knowledge system from the 1970s, created by Ed Feigenbaum, aka \"the father of expert systems\", aimed to help chemists determine the chemical structure of a compound using information provided by mass spectrometers"
+            }
+        },
+        {
+            "media": {
+                "url": "https://en.wikipedia.org/w/index.php?title=Xcon&oldid=1179489903",
+                "caption": "Xcon",
+                "credit": "Wikipedia contributors, \"Xcon,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Xcon&oldid=1179489903 (accessed December 20, 2023). "
+            },
+            "start_date": {
+                "year": "1978"
+            },
+            "text": {
+                "headline": "R1/XCON",
+                "text": "An AI expert system developed by Digital Equipment Corporation to help configure their VAX computers. By the end of the 1980s, the system had about 17,500 rules and the developers claimed it had saved them $40 million."
+            }
+        },
+        {
+            "media": {
+                "url": "https://images.pexels.com/photos/2099737/pexels-photo-2099737.jpeg",
+                "caption": "Spring",
+                "credit": "Photo by Susanne Jutzeler, suju-foto  from Pexels: https://www.pexels.com/photo/selective-focus-photography-of-pink-cherry-blossom-flowers-2099737/"
+            },
+            "start_date": {
+                "year": "1980"
+            },
+            "text": {
+                "headline": "The Winter Ends",
+                "text": "By the late 1970s expert systems such as MYCIN, DENDRAL and R1/XCON had convincingly shown that Knowledge AI: 1. could be useful, 2. could surpass human expertise and 3. could be commercially viable. This attracted interest from companies, especially as the idea of knowledge work replacing manufacturing as the work of the future was becoming common, and the first AI winter came to an end."
+            }
+        },
+        {
+            "media": {
+                "url": "https://youtu.be/ts5Nh9hd59A",
+                "caption": "Cyc: The big dream of AI | Douglas Lenat and Lex Fridman",
+                "credit": "Lex Clips"
+            },
+            "start_date": {
+                "year": "1984"
+            },
+            "text": {
+                "headline": "The CYC Project",
+                "text": "Cyc (pronounced /ˈsaɪk/ SYKE) is a long-term artificial intelligence project that aims to assemble a comprehensive ontology and knowledge base that spans the basic concepts and rules about how the world works. Hoping to capture common sense knowledge, Cyc focuses on implicit knowledge that other AI platforms may take for granted. This is contrasted with facts one might find somewhere on the internet or retrieve via a search engine or Wikipedia. Cyc enables semantic reasoners to perform human-like reasoning and be less \"brittle\" when confronted with novel situations. "
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rodney_Brooks_in_2021.jpg",
+                "caption": "Rodney Brooks in 2021 by Christopher Michel",
+                "credit": "Rodney Brooks in 2021 by Christopher Michel"
+            },
+            "start_date": {
+                "year": "1985"
+            },
+            "text": {
+                "headline": "Rodney Brooks and Behavioral AI",
+                "text": "Rodney Brooks was born in Australia in 1954. In relation to AI this person's main focus was building robots that could do useful things in the real world. In the 1980s he was frustrated with the idea of using knowledge-based AI in robots to accomplish tasks, so he accepted a faculty position at MIT in the mid 1980s and began a campaign to rethink AI at its most fundamental level. He argued intelligent behavior can arise without explicit knowledge and reasoning, as promoted by knowledge-based systems and logic-based AI, but instead as an emergent property from the interaction of an entity in its environment. A simulated environment removes all the complexity that exists in the real world, so it is unfit to train robots."
+            }
+        },
+        {
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Connectionism",
+                "caption": "Parallel Distributed Processing (PDP)",
+                "credit": "https://en.wikipedia.org/wiki/Connectionism"
+            },
+            "start_date": {
+                "year": "1987"
+            },
+            "text": {
+                "headline": "Neural Nets Version 2 - Parallel Distributed Processing (PDP)",
+                "text": "The second wave of neural nets began after the publication of Parallel Distributed Processing (PDP) book by James L. McClelland, David E. Rumelhart, Geoffrey Hinton and others. This book provided much more general models of neurons, introduced intermediate processors (hidden layers) and popularized backpropagation, which was reinvented multiple times, for training multi-layer neural networks. Their ideas enabled more complex neural net applications and interest in neural nets exploded. Unfortunately, interest in neural nets faded in the 1990s, not because the techniques were expended, but because the hardware available at the time was not powerful enough to handle them."
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "1991"
+            },
+            "text": {
+                "headline": "The state of AI in 1991",
+                "text": "Logic developed in expert systems made Knowldge-based AI easier to write and transparent. Behavioral AI replaced Knowledge-based AI as the most popular way to create AI. Beginning talks of AI Agents."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Prometheus_Logo.GIF",
+                "caption": "The Eureka PROMETHEUS Project",
+                "credit": "The Eureka PROMETHEUS Project"
+            },
+            "start_date": {
+                "year": "1987"
+            },
+            "end_date": {
+                "year": "1995"
+            },
+            "text": {
+                "headline": "Car Drives Itself from Munich, Germany to Odense, Denmark and Back",
+                "text": "Running from 1987-1995, this project led to a demonstration in 1995 in which a car drove itself from Munich in Germany to Odense in Denmark and back. human interventions were required on average every 8 kilometers, the longest stretch without one being about 165 kilometers. This project showed that this technology would eventually be commercially viable."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.elon.edu/u/imagining/expert_predictions/agents-that-reduce-work-and-information-overload/",
+                "caption": "Agents that Reduce Work and Information Overload",
+                "credit": "Pattie Maes"
+            },
+            "start_date": {
+                "year": "1994"
+            },
+            "text": {
+                "headline": "AI agents become popular",
+                "text": "a self-contained, autonomous AI system in some environment that carries out tasks on behalf of a user. By 1995 it was agreed that an AI agent must have 3 capabilities: 1. be reactive, in tune with environment and able to change behavior if needed, 2. be proactive, be able to proactively work towards achieving task on behalf of user and 3. be social, be capable of working with other agents. The first 2 capabilities can be seen as representative of Behavioral AI and Knowledge AI, respectively. The third, be social, is new. They use utility theory from Von Neumann and Morgenstern to understand preferences and Bayes to know how to make decisions under uncertainty."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deep_Blue.jpg",
+                "caption": "Bobby Brown performing \"My Prerogrative,\" from his \"Don't be Cruel\" solo album. Bobby Brown first became famous with the R&B group, New Edition.",
+                "credit": "{{Information |Description=w:Deep Blue (chess computer), the computer who defeated chess world champion w:Garry Kasparov in May 1997 and the first computer to win a match against a world champion. The tag on flickr suggests the photo was taken i"
+            },
+            "start_date": {
+                "year": "1997"
+            },
+            "text": {
+                "headline": "DeepBlue Beats The Reigning Chess World Champion Garry Kasparov",
+                "text": "In 1996 DeepBlue lost 2-4 against Kasparov. The next year it came back to win against Kasparov. On this day chess became a solved problem, since AI could beat all but the very best human chess players."
+            }
+        },
+        {
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/SAT_solver",
+                "caption": "SAT solver",
+                "credit": "SAT solver"
+            },
+            "start_date": {
+                "year": "2000"
+            },
+            "text": {
+                "headline": "NP-complete Problems Become Less Scary",
+                "text": "In logic and computer science, the Boolean satisfiability problem (sometimes called propositional satisfiability problem and abbreviated SATISFIABILITY, SAT or B-SAT) is the problem of determining if there exists an interpretation that satisfies a given Boolean formula. By the year 2000 programs called SAT solvers were finding better and better solutions to NP-complete problems, so these problems became much less daunting than they'd been since the 1970s."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stanley2.JPG/1024px-Stanley2.JPG",
+                "caption": "Stanley parked after the 2005 DARPA Grand Challenge",
+                "credit": "An official DARPA photograph of Stanley at the 2005 DARPA Grand Challenge. Stanley, created by the Stanford University Racing Team, won the race and the 2 million US dollar prize. This photograph was found at http://www.darpa.mil/grandchallenge05/high_res"
+            },
+            "start_date": {
+                "year": "2004"
+            },
+            "end_date": {
+                "year": "2007"
+            },
+            "text": {
+                "headline": "DARPA 2004, 2005 and 2007 Grand Challenges",
+                "text": "By 2004 there was progress in autonomous automobiles, so this agency organized a Grand Challenge with a $1 million prize. The goal was to traverse autonomously 150 miles of American countrysid. In 2004 106 teams entered, 15 finalists, nobody won. The best result was 7 and a half miles before going off course. In 2005 the reward was doubled. The goal was to travel 132 miles of the Nevada desert. 195 teams entered, 23 finalists. 5 teams finished the task. First was Stanley designed by a team from Stanford University, led by Sebastian Thrun. It completed the track in just under 7 hours. In 2007 it was an Urban Challenge on a closed Air-Force Base where contestants had to obey California traffic laws, deal with parking, intersections and traffic jams. 36 teams, 11 finalists, 6 succeeded, the winner was from Carnegie Melon University and averaged 14 miles per hour."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=6M5VXKLf4D4",
+                "caption": "Deep Learning | What is Deep Learning? | Deep Learning Tutorial For Beginners | 2023 | Simplilearn",
+                "credit": "Simplilearn"
+            },
+            "start_date": {
+                "year": "2006"
+            },
+            "text": {
+                "headline": "Neural Nets Version 3 - Deep Learning",
+                "text": "Although Deep Learning has existed since the 1950s it wasn't until the mid 2000s that it became popular after a paper by Geoffrey Hinton and Ruslan Salakhutdinov. This paper showed how a many-layered neural network could be pre-trained one layer at a time. Deep learning is characterized by more layers, more neurons and more connections. The different layers allow work on different levels of abstraction, the layers closer to the input process low-level concepts, layers deeper into the network can handle more abstract concepts."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.image-net.org/static_files/index_files/logo.jpg",
+                "caption": "ImageNet",
+                "credit": "https://www.image-net.org/index.php"
+            },
+            "start_date": {
+                "year": "2006"
+            },
+            "text": {
+                "headline": "ImageNet - First Major Annotated Image Database",
+                "text": "This project is the brainchild of Chinese-born researcher Fei-Fei Li, who was born in Beijing in 1976, moved to the United States in the 1980s and studied physics and electrical engineering. Joined Stanford in 2009 and headed the AI Lab at Stanford from 2013 to 2018. her insight was that the entire deep learning community would benefit from having large, well-maintained data sets that would provide a common baseline against which new systems could be trained, tested and compared."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Comparison_image_neural_networks.svg",
+                "caption": "{{Information |Description=Comparison of the architectures of LeNet and AlexNet by CMG Lee using data from http://d2l.ai/chapter_convolutional-neural-networks/lenet.html and http://d2l.ai/chapter_convolutional-modern/alexnet.html . |Source={{own}} |Date= |Author= Cmglee |Permission= |other_versions= }} Category:Convolutional neural networks",
+                "credit": "{{Information |Description=Comparison of the architectures of LeNet and AlexNet by CMG Lee using data from http://d2l.ai/chapter_convolutional-neural-networks/lenet.html and http://d2l.ai/chapter_convolutional-modern/alexnet.html . |Source={{own}} |Date= |Author= Cmglee |Permission= |other_versions= }} Category:Convolutional neural networks"
+            },
+            "start_date": {
+                "year": "2012"
+            },
+            "text": {
+                "headline": "AlexNet",
+                "text": "AlexNet competed in the ImageNet Large Scale Visual Recognition Challenge on September 30, 2012.[3] The network achieved a top-5 error of 15.3%, more than 10.8 percentage points lower than that of the runner up. The original paper's primary result was that the depth of the model was essential for its high performance, which was computationally expensive, but made feasible due to the utilization of graphics processing units (GPUs) during training.[2]. Soon after image recognition became a solved problem."
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=V1eYniJ0Rnk&t=98",
+                "caption": "Google DeepMind's Deep Q-learning playing Atari Breakout!",
+                "credit": "Google DeepMind's Deep Q-learning playing Atari Breakout!"
+            },
+            "start_date": {
+                "year": "2013"
+            },
+            "text": {
+                "headline": "DeepMind - Teaching AI using Reinforcement Learning",
+                "text": "DeepMind successfully taught AI to play different games without giving it any instructions or telling it what the screen meant in terms of intermittent state (score). DeepMind was bought by Google in 2014 for $650 million. They went on to create AlphaGo, who defeated the best Go player in 2016, AlphaGo Zero, which could play at a superhuman level without any supervised learning, AlphaZero, which could play different games without any supervised learning, AlphaFold, which could predict result of protein folding, and so on."
+            }
+        },
+        {
+            "media": {
+                "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2017/10/NV-research-GAN.png",
+                "caption": "Generating Photorealistic Images of Fake Celebrities with Artificial Intelligence",
+                "credit": "https://developer.nvidia.com/blog/generating-photorealistic-fake-celebrities-with-artificial-intelligence/"
+            },
+            "start_date": {
+                "year": "2018"
+            },
+            "text": {
+                "headline": "Photorealistic Images of Fake Celebrities",
+                "text": "Nvidia managed to create completely realistic pictures of fake people."
+            }
+        },
+        {
+            "media": {
+                "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/blackhole_1600.jpg?w=2048&format=webp",
+                "caption": "Using the Event Horizon Telescope, scientists obtained an image of the black hole at the center of the galaxy M87. (There is a supermassive black hole at the center of our galaxy — the Milky Way.)",
+                "credit": "Event Horizon Telescope Collaboration"
+            },
+            "start_date": {
+                "year": "2019"
+            },
+            "text": {
+                "headline": "First Picture of a Black Hole",
+                "text": "Here AI predicted the missing data in the input images."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Astronaut_Riding_a_Horse_%28SDXL%29.jpg",
+                "caption": "English: A synthography of an astronaut riding a horse created in NightCafe Studio with Stable Diffusion XL (SDXL). Prompt is a photograph of an astronaut riding a horse with weight of 1.0 (NightCafe Studio scale). Runtime is medium and overall prompt weight is 70%. This artwork was created with text-to-image (txt2img) process.",
+                "credit": " Generated with NightCafe Studio in Stable Diffusion XL mode (1.0)"
+            },
+            "start_date": {
+                "day": "22",
+                "month": "8",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Stable Diffusion",
+                "text": "Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt. It was developed by researchers from the CompVis Group at Ludwig Maximilian University of Munich and Runway with a compute donation by Stability AI and training data from non-profit organizations. "
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230903231118",
+                "caption": "Minify using XLinks // Editing SVG source code using c:User:Rillke/SVGedit.js",
+                "credit": "Minify using XLinks // Editing SVG source code using c:User:Rillke/SVGedit.js"
+            },
+            "start_date": {
+                "day": "30",
+                "month": "11",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "ChatGPT",
+                "text": "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. Based on a large language model, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context. By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to the growth of OpenAI's valuation to $29 billion."
+            }
+        }
+    ]
+}
